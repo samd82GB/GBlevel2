@@ -20,4 +20,7 @@
 -fx-text-fill: #330000;
 }
 
-
+.text-area {
+-fx-background-color: #39ffFF;
+-fx-text-fill: #330000;
+}
