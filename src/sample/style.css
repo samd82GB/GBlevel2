@@ -1,0 +1,23 @@
+.root{
+-fx-font-size: 18;
+-fx-background-image: url("Fon.jpg");
+-fx-background-size: 100% 100%;
+
+}
+.button {
+-fx-background-color: #00FFFF;
+}
+
+.button:hover {
+-fx-background-color: #0000FF;
+-fx-font-weight: bold;
+-fx-text-fill: #FFFF00;
+
+}
+
+.text-field{
+-fx-background-color: #39ffFF;
+-fx-text-fill: #330000;
+}
+
+
